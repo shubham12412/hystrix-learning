@@ -1,5 +1,8 @@
 ![hystric circuit breaker](./img/hystrix-circuit-breaker.png)
 
+https://miro.medium.com/max/1600/1*9RJt_f36SjK4PM1bH6Dkmg.png
+
+
 1) https://github.com/Netflix/Hystrix
 
 2) https://github.com/Netflix/Hystrix/wiki
