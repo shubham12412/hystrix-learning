@@ -1,3 +1,5 @@
+![hystric circuit breaker](./img/hystrix-circuit-breaker.png)
+
 1) https://github.com/Netflix/Hystrix
 
 2) https://github.com/Netflix/Hystrix/wiki
