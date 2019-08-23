@@ -13,5 +13,7 @@
 
 6) http://radar.oreilly.com/2013/06/application-resilience-in-a-service-oriented-architecture.html
 
+7) https://speakerdeck.com/benjchristensen/application-resilience-engineering-and-operations-at-netflix
+
 
 
