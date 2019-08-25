@@ -15,5 +15,7 @@
 
 7) https://speakerdeck.com/benjchristensen/application-resilience-engineering-and-operations-at-netflix
 
+8) https://github.com/cfregly/fluxcapacitor
+
 
 
